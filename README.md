@@ -5,14 +5,18 @@ The aim of the Pizza Sales Dashboard project is to leverage SQL for data extract
 ### 2.  Data Processing using Dax Functionalities in Power Bi and Customisation according to our needs
 ### 3.  Data Analysis
 Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
-Identifying top-selling pizza flavors.
-Analyzing sales trends over time.
- Evaluating customer demographics and preferences.
- Calculating average order values.
-Assessing the performance of individual restaurant locations.
-  ###  4. Power BI Visualization
+<UL>
+ <LI>Identifying top-selling pizza flavors.</LI>
+ <LI>Analyzing sales trends over time.</LI>
+ <LI>Evaluating customer demographics and preferences.</LI>
+ <LI>Calculating average order values.</LI>
+ <LI>Assessing the performance of individual restaurant locations.</LI>
+</UL>
+ 
+  ### 4. Power BI Visualization
  Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
-
- Bar charts and donut charts displaying sales by product category.
- Line charts illustrating sales trends.
- Dashboards summarizing key performance indicators (KPIs).
+ <UL>
+  <LI> Bar charts and donut charts displaying sales by product category. </LI>
+  <LI>Line charts illustrating sales trends.</LI>
+  <LI>Dashboards summarizing key performance indicators (KPIs). </LI>
+ </UL>
