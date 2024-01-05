@@ -20,3 +20,14 @@ Once the data is prepared, various SQL queries are written to perform in-depth d
   <LI>Line charts illustrating sales trends.</LI>
   <LI>Dashboards summarizing key performance indicators (KPIs). </LI>
  </UL>
+ 
+ ![Power BI Desktop 06-01-2024 00_08_25](https://github.com/Anmolshree/Pizza-Dashboard/assets/57269973/ec5c5304-12cc-4bf8-8702-c7424ff5eb60)
+
+ ![Power BI Desktop 05-01-2024 21_22_47](https://github.com/Anmolshree/Pizza-Dashboard/assets/57269973/264871f2-d7aa-44ef-8506-364a987c0e2b)
+### 5. Insights and Recommendations
+Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
+
+
+ 
+ 
+
